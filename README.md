@@ -1,4 +1,4 @@
-# Socket Programming In Python
+# Socket Programming In Python With Audio Broadcasting
 This project is a simple implementation of file and audio streaming between a client and a server using Python's socket and threading libraries, and PyAudio for audio streaming. The program allows the client to send a file to the server, which then saves the file to disk. The server can also broadcast audio to the client.
 
 # Getting Started
