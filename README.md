@@ -44,9 +44,3 @@ For 'audio' mode:
 
 # Notes
 - For 'audio' mode, the server uses its microphone to broadcast audio, and the client uses its speakers to play the received audio. Therefore, the server and client machines should have a working microphone and speakers, respectively.
-- The program succesfully covers all points provided in instruction, as well as the bonus points
-
-# Student Info
-- Name: Moiz Zulfiqar
-- ERP ID: 24543
-
